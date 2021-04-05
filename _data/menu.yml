@@ -4,8 +4,8 @@
 entries:
   - title: info
     entries:
+      - title: "Who and what is this blog <a href='https://randbyyp.github.io/about'>about</a>?"
       - title: "Theme created by <a href='https://riggraz.dev'>riggraz.dev</a>, available <a href='https://github.com/riggraz/no-style-please'>here</a>"
-      - title: "<a href='https://randbyyp.github.io/about'>Whose blog is this, what is it for?</a>"
 
   - title: all posts
     post_list:
