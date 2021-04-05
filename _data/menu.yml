@@ -4,9 +4,6 @@
 entries:
   - title: info
     entries:
-      - title: A simple blog, in minimialistic Jekyll style big <a href='https://github.com/riggraz'>riggraz</a>
-      - title: github repo
-        url: https://github.com/RanDByyp/randbyyp.github.io
       - title: "Theme created by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please'>available here</a>"
 
   - title: all posts
