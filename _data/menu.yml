@@ -5,12 +5,12 @@ entries:
   - title: info
     entries:
       - title: "Theme created by <a href='https://riggraz.dev'>riggraz.dev</a>, available <a href='https://github.com/riggraz/no-style-please'>here</a>"
-      - title: "About"
+      - title: About
       url: about
 
   - title: all posts
     post_list:
-      limit: 5
+      limit: 8
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
