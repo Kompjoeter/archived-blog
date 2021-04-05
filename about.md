@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-# About
-
 ## Who?
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non mattis augue. Nunc sapien purus, feugiat quis urna eu, scelerisque aliquam eros. Aliquam erat volutpat. In sed mauris est. Mauris nec semper felis. 
