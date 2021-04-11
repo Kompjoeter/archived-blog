@@ -4,7 +4,7 @@
 entries:
   - title: info
     entries:
-      - title: "Who and what is this blog <a href='https://randbyyp.github.io/about'>about</a>?"
+      - title: "<a href='https://randbyyp.github.io/about'>About</a>"
       - title: "Theme created by <a href='https://riggraz.dev'>riggraz.dev</a>, available <a href='https://github.com/riggraz/no-style-please'>here</a>"
 
   - title: all posts
