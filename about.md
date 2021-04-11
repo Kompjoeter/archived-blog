@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-![](https://raw.githubusercontent.com/RanDByyp/randbyyp.github.io/main/pfp.jpeg | width=200)
+![](https://github.com/RanDByyp/randbyyp.github.io/blob/main/pfp.jpeg | width=100)
 # I like to go on the computer.
 Not pee, but play. The computer is my all time favorite pastime thing! 
 
