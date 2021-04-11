@@ -13,6 +13,10 @@ entries:
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
+  
+  - title: currently working on
+    entries:
+      - title: "<a href='https://www.youtube.com/watch?v=fhnaG788cOQ'>3D 'Generative Art' Cube with HTML/CSS & p5.js</a>"
 
   # - title: posts by category
   #   post_list:
