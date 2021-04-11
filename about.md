@@ -13,4 +13,4 @@ While I do mean to share about my own findings, I'm always interested to learn m
 
 Hit me up!
 
-"<a href='https://twitter.com/KompjoeterJonk'>Twitter</a>"
+<a href='https://twitter.com/KompjoeterJonk'>Twitter</a>
