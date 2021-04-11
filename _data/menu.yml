@@ -5,7 +5,7 @@ entries:
   - title: info
     entries:
       - title: "<a href='https://randbyyp.github.io/about'>About</a>"
-      - title: "Theme created by <a href='https://riggraz.dev'>riggraz.dev</a>, available <a href='https://github.com/riggraz/no-style-please'>here</a>"
+      - title: "<a href='https://github.com/riggraz/no-style-please'>Jekyll Theme</a>"
 
   - title: all posts
     post_list:
