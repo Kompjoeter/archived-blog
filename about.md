@@ -2,6 +2,8 @@
 layout: page
 title: About
 ---
+*"28 year old dutch creator, currently living in the north of the Netherlands, hoping to move to Zwolle. Interested in front-end, design, vector art, and anything ADHD."*
+
 # I like to go on the computer.
 Not pee, but play. The computer is my all time favorite pastime thing! 
 
