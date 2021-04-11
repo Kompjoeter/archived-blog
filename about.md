@@ -2,10 +2,9 @@
 layout: page
 title: About
 ---
-## Who?
+# I like to go on the computer.
+Not pee, but play. The computer is my all time favorite pastime thing. I love exploring new software, creating  [digital art](https://www.artstation.com/kompjoeterjonk), and playing games. Since a few years now I'm leveling up! Learning to code, and making cool, weird and sometimes useful programs myself.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non mattis augue. Nunc sapien purus, feugiat quis urna eu, scelerisque aliquam eros. Aliquam erat volutpat. In sed mauris est. Mauris nec semper felis. 
+Other than that I'm constantly developing new or improved strategies to stay optimally focused, productive yet healthy, while living with an ADHD brain. 
 
-## What?
-
-Duis congue ac lorem molestie euismod. Integer eros urna, feugiat ut rutrum a, pretium sit amet purus. Praesent bibendum odio nec quam dapibus suscipit. Donec blandit tincidunt justo sit amet fringilla. Aenean eget varius ipsum.
+While I do mean to share about my own findings, I'm always interested to learn more about ADHD, and ADHD & productivity. Hit me up!
