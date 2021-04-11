@@ -12,3 +12,5 @@ Other than that I'm constantly developing new or improved strategies to stay opt
 While I do mean to share about my own findings, I'm always interested to learn more about ADHD, and ADHD & productivity. 
 
 Hit me up!
+
+"<a href='https://twitter.com/KompjoeterJonk'>Twitter</a>"
