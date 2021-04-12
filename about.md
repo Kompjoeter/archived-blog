@@ -2,10 +2,10 @@
 layout: page
 title: About
 ---
-*"28 year old organic matter - currently living in a semi-rural town in the north of the Netherlands, hoping to move to Zwolle. Interested in front-end development, art & design and anything ADHD."*
+*"28 year old creator - currently living in a semi-rural town in the north of the Netherlands, hoping to move to Zwolle. Interested in front-end development, art & design and anything ADHD."*
 
 # I like to go on the computer.
-Not pee, but play. The computer is my all time favorite pastime thing! 
+The computer is my all time favorite pastime thing! 
 
 I love exploring new software, creating [digital art](https://www.artstation.com/kompjoeterjonk), and playing games. Since a few years now I'm leveling up! Learning to code and making [fun, pretty and sometimes useful programs myself.](https://github.com/Kompjoeter)
 
