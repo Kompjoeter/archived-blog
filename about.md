@@ -2,10 +2,10 @@
 layout: page
 title: About
 ---
-*"28 year old creator - currently living in the north of the Netherlands, hoping to move to the city of Zwolle. Interested in front-end development, art & design and gaining a better understanding of ADHD. Taught myself the basics of coding, now doing a study and internship."*
+*"28 year old creator - currently living in the north of the Netherlands, hoping to move to the city of Zwolle. Interested in front-end development, art & design and gaining a better understanding of ADHD. Taught myself the basics of coding, now doing a study and internship.*
 
-*"For now, this blog serves as a tool for me to reflect on my coding journey. I expect to write mostly about my programming projects and my strategies for ADHD."*  
-
+*For now, this blog serves as a tool for me to reflect on my coding journey. I expect to write mostly about my programming projects and my strategies for ADHD."*  
+&nbsp;
 # I like to go on the computer.
 The computer is my all time favorite pastime thing! 
 
@@ -22,7 +22,7 @@ Now that it has moved to my spare time activities I feel like I'm in full contro
 Being finally diagnosed with ADHD at 27, I'm constantly developing new or improved strategies to stay optimally focused, productive yet healthy, while living in a neurotypical society. Since my diagnosis is only recent, I'm still learning, but my passion about this topic is steadily increasing. 
 
 I'm very open to discussing it and hearing other people's perspectives!
-
+&nbsp;
 Hit me up!
 
 <a href='https://twitter.com/KompjoeterJonk'>Twitter</a>
