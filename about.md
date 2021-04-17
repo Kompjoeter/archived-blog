@@ -2,6 +2,8 @@
 layout: page
 title: About
 ---
+**TL:DR:**
+
 *"28 year old creator - currently living in the north of the Netherlands, hoping to move to the city of Zwolle. Interested in front-end development, art & design and gaining a better understanding of ADHD. Taught myself the basics of coding, now doing a study and internship."*
 
 # I like to go on the computer.
