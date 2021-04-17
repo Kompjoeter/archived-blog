@@ -6,7 +6,7 @@ title: About
 
 *For now, this blog serves as a tool for me to reflect on my coding journey. I expect to write mostly about my programming projects and my strategies for ADHD."*  
 &nbsp;
-&nbsp;
+
 # I like to go on the computer.
 The computer is my all time favorite pastime thing! 
 
@@ -24,7 +24,7 @@ Being finally diagnosed with ADHD at 27, I'm constantly developing new or improv
 
 I'm very open to discussing it and hearing other people's perspectives!
 &nbsp;
-&nbsp;
+
 Hit me up!
 
 <a href='https://twitter.com/KompjoeterJonk'>Twitter</a>
